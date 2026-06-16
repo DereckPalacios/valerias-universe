@@ -128,14 +128,14 @@ export default function ThankYouSection() {
               className="
                 pointer-events-none
                 absolute
-                -right-100
-                bottom-[-05px]
+                right-[-120px]
+                bottom-[-20px]
                 z-30
-                hidden
-                w-[4200px]
+                block
+                w-[280px]
+                md:w-[500px]
                 object-contain
                 drop-shadow-[0_0_45px_rgba(255,255,255,0.8)]
-                md:block
               "
               initial={{
                 opacity: 0,
