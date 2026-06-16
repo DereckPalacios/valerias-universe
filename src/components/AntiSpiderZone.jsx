@@ -83,7 +83,7 @@ export default function AntiSpiderZone() {
                 onClick={() => setOpen(false)}
                 className="relative z-20 mt-6 rounded-full bg-white px-5 py-2 font-bold text-red-950 transition hover:scale-105"
               >
-                Cerrar caja, qué asco 😭
+                Cerrar caja
               </button>
             </motion.div>
           )}
