@@ -205,7 +205,7 @@ export default function ThankYouSection() {
 
                   <div className="relative z-10">
                     <p className="text-sm font-bold uppercase tracking-[0.3em] text-purple-500">
-                      Para Valeria
+                      Para Vale
                     </p>
 
                     <h3 className="mt-4 text-3xl font-black">
